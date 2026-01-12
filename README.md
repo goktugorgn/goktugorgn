@@ -1,38 +1,72 @@
-<h1 align="center">Hey, I'm Göktuğ 👋</h1>
-<h3 align="center">Information Technology Specialist | Infrastructure & Systems</h3>
+<h1 align="center">Hi, I'm Göktuğ 👋</h1>
+<h3 align="center">IT Specialist | Systems • Infrastructure • Security</h3>
 
 <p align="center">
-  I focus on building, securing, and automating reliable IT infrastructure (Windows Server, AD, Virtualization, Networking).
+  IT Specialist with hands-on experience in system administration,
+  infrastructure operations, and network & endpoint security.
 </p>
 
 <p align="center">
-  <a href="https://tr.linkedin.com/in/goktugorgun" target="_blank">LinkedIn</a>
-  </p>
+  <a href="https://tr.linkedin.com/in/goktugorgun" target="_blank">LinkedIn</a> •
 </p>
 
 ---
 
-## 👨‍💻 What I do
-- Windows Server administration (AD DS, DNS, GPO, DHCP)
-- Identity & endpoint management (LAPS, hardening, standardization)
-- Virtualization & homelab (VMware/ESXi/vCenter, lab automation)
-- Networking (VLAN, routing, troubleshooting, documentation)
-- Automation & scripting (PowerShell-first, also Bash)
+## 🧠 Professional Focus
+- Windows Server & Active Directory environments
+- Network & endpoint security awareness
+- Infrastructure operations & troubleshooting
+- Virtualization & homelab-based testing
+- Automation with PowerShell
 
-## 🧰 Tech Stack
-**Systems:** Windows Server • Active Directory • DNS/GPO • Linux   & XDR • DNS/GPO • Linux 
-**Virtualization:** VMware vSphere/ESXi • vCenter  
-**Networking:** Switching/Routing • VLAN • Sophos Firewall 
-**Automation:** PowerShell • Bash • Git  
-**Tools:** Docker (learning) • Postman
+## 🏢 Experience Snapshot
+**IT Specialist – Opdotech Bilişim Teknolojileri A.Ş.**
+- Windows Server administration (AD DS, DNS, GPO)
+- User & computer lifecycle management
+- Network and endpoint security practices
+- Enterprise & lab environment operations
+- Technical documentation & troubleshooting
+
+**IT Agent – MTS Globe**
+- Corporate IT support & incident handling
+- System and user-side troubleshooting
+- IT operations assistance
+
+## 🛡️ Security & Certifications
+- **Sophos Certified Engineer**
+- **Sophos Firewall / Endpoint Security Training**
+- Network security fundamentals
+- Firewall rule management & traffic control
+- Endpoint protection & policy-based security
+
+## 🧰 Technical Stack
+**Systems**
+- Windows Server (AD DS, DNS, GPO)
+- Linux (basic administration)
+
+**Virtualization & Lab**
+- VMware ESXi
+- vCenter
+- Homelab infrastructure
+
+**Networking & Security**
+- TCP/IP fundamentals
+- VLAN & routing basics
+- Firewall concepts (Sophos)
+- Endpoint security & policies
+
+**Automation & Tools**
+- PowerShell
+- Bash
+- Git
+- Docker (learning)
 
 ## 📈 GitHub Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=goktugorgn&label=Profile%20views&color=0e75b6&style=plastic"alt="goktugorgn" />
 </p>
 
----
-
-### 🎯 Currently learning
-- Docker fundamentals (images, volumes, compose)
-- Better automation patterns (modules, logging, config-driven scripts)
+## 🎯 Currently Improving
+- Advanced PowerShell scripting
+- Docker & container fundamentals
+- Network & security best practices
