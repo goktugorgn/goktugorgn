@@ -7,7 +7,9 @@
 
 <p align="center">
   <a href="https://tr.linkedin.com/in/goktugorgun" target="_blank">LinkedIn</a> •
-  <a href="mailto:goktugorgun@hotmail.com">goktugorgun@hotmail.com</a>
+  <img
+        src="https://komarev.com/ghpvc/?username=goktugorgn&label=Profile%20views&color=0e75b6&style=plastic"
+        alt="goktugorgn" /> </p>
 </p>
 
 ---
