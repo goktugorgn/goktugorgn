@@ -42,7 +42,7 @@
 ## 🧰 Technical Stack
 **Systems**
 - Windows Server (AD DS, DNS, GPO)
-- Linux (basic administration)
+- Linux
 
 **Virtualization & Lab**
 - VMware ESXi
@@ -67,6 +67,6 @@
 </p>
 
 ## 🎯 Currently Improving
-- Advanced PowerShell scripting
+- Rubrik Backup & Disaster Recovery
 - Docker & container fundamentals
 - Network & security best practices
