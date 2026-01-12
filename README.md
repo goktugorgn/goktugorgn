@@ -26,7 +26,7 @@
 **Automation:** PowerShell • Bash • Git  
 **Tools:** Docker (learning) • Postman
 
-## 📈 GitHub Stats (optional)
+## 📈 GitHub Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=goktugorgn&label=Profile%20views&color=0e75b6&style=plastic"alt="goktugorgn" />
 </p>
