@@ -7,9 +7,7 @@
 
 <p align="center">
   <a href="https://tr.linkedin.com/in/goktugorgun" target="_blank">LinkedIn</a> •
-  <img
-        src="https://komarev.com/ghpvc/?username=goktugorgn&label=Profile%20views&color=0e75b6&style=plastic"
-        alt="goktugorgn" /> </p>
+  </p>
 </p>
 
 ---
@@ -30,7 +28,7 @@
 
 ## 📈 GitHub Stats (optional)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=goktugorgn&show_icons=true" />
+  <img src="https://komarev.com/ghpvc/?username=goktugorgn&label=Profile%20views&color=0e75b6&style=plastic"alt="goktugorgn" />
 </p>
 
 ---
