@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tr.linkedin.com/in/goktugorgun" target="_blank">LinkedIn</a> •
+  <a href="https://tr.linkedin.com/in/goktugorgun" target="_blank">LinkedIn</a>
   </p>
 </p>
 
